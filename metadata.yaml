@@ -1,4 +1,8 @@
 _repo: Main-Currents-in-Nineteenth-Century-Literature-3-The-Reaction-in-France_47794
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47794-h/images/cover.jpg
 creator:
   author:
     agent_name: Brandes, Georg
@@ -12,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2674
     wikipedia: http://en.wikipedia.org/wiki/Georg_Brandes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47794#Main-Currents-in-Nineteenth-Century-Literature-3-The-Reaction-in-France
 gutenberg_issued: '2014-12-27'
 gutenberg_type: Text
 identifiers:
